@@ -32,3 +32,7 @@ Para revisar sintaxis y problemas:
 yarn lint 
 ```
 
+### Api
+
+Se agrega endpoint api en http://localhost:3000/api
+
