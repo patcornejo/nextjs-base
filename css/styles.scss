@@ -1,0 +1,13 @@
+// Global App Styles
+
+@import "vars";
+
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'sans-serif';
+}
+
+.spanPrimary {
+  color: $primary;
+}
