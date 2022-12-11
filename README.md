@@ -1,6 +1,6 @@
-# Base NextJS + TypeScript
+# Base NextJS + TypeScript + Sass
 
-Base para comenzar un proyecto NextJS con React y Typescript.
+Base para comenzar un proyecto NextJS con React, Typescript y Sass.
 
 ## Instalación
 
